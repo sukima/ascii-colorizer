@@ -1,0 +1,11 @@
+{
+  "name": "ascii-colorizer",
+  "version": "1.0.0",
+  "description": "Add VT100 color codes to ASCII art",
+  "main": "index.js",
+  "author": "Devin Weaver (@sukima) <suki@tritarget.org> (https://tritarget.org/)",
+  "license": "MIT",
+  "bin": {
+    "ascii2color": "./cli.js"
+  }
+}
